@@ -1,0 +1,26 @@
+Collection of personal config files for TypeScript, ESLint and others.
+## TypeScript
+
+React App
+```JSON
+{
+    "extends": "@jrposada/config/typescript/react.json",
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": ["src", ...]
+    ...
+}
+```
+
+React Library
+```JSON
+{
+    "extends": "@jrposada/config/typescript/react-lib.json",
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": ["src", ...]
+    ...
+}
+```

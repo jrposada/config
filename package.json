@@ -1,0 +1,19 @@
+{
+  "name": "@jrposada/config",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrposada/config.git"
+  },
+  "author": "Javier Rodriguez Posada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrposada/config/issues"
+  },
+  "homepage": "https://github.com/jrposada/config#readme"
+}
